@@ -1,2 +1,8 @@
-# Background-subtraction-method
-Contents of research on background subtraction during college
+# このリポジトリは私が大学院時代(～2008年3月）に研究した背景差分法に関する資料です。
+
+# 論文
+
+## [変動する照明環境下での背景差分法による移動物体検出に関する一考察](https://www.ieice.org/publications/conference-FIT-DVDs/FIT2007/pdf/I/I_042.pdf)    
+ 　本ソースコードは上記論文の分析過程で作成したコードである。
+  
+「室内侵入者検知のための動的背景抽出法」という論文の背景更新手法をベースとして、移動物体抽出処理に視覚特性を考慮した非線形な処理を用いることで、照明等の環境変化に強い移動物体抽出手法について研究していた。
